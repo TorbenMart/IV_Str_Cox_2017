@@ -5,7 +5,7 @@ This repository contains simulated data (corresponding to simulation setup 1 in 
 To run the code:
 
 - Download the files data.rdata and estimate.R to your computer.
-- load the data into R (using the the load()-function).
+- load the data into R, using load(data.rdata)
 - run the estimate.R file in R
 
 
